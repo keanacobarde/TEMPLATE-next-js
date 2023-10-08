@@ -18,6 +18,8 @@ function Home() {
     >
       <h1>Hello {user.displayName}! </h1>
       <Counter title={"Keana's Counter"} />
+      <Counter title={"Salem's Counter"} />
+      <Counter title={"Everyone's Counter"} />
     </div>
   );
 }
